@@ -38,6 +38,13 @@ nav a:hover {
     margin-right: -25%;
     padding-bottom: 7%;
 }
+.sonrisa-3 {
+    width: 30%;
+    padding-top: 5%;
+    padding-left: 45%;
+    margin-right: -25%;
+    padding-bottom: 7.1%;
+}
 .navbar {
     display: flex;
     justify-content: space-between;
